@@ -1,0 +1,16 @@
+# Node-js
+node_modules/
+npm-debut.log*
+
+# Käyttöjärjestelmä
+.Thumbs.db
+
+# Editorit
+
+.vscode/
+.idea/
+
+# Ympäristömuuttujat
+.env
+.env.local
+
