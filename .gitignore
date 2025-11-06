@@ -1,9 +1,9 @@
 # Node-js
 node_modules/
-npm-debut.log*
+npm-debug.log*
 
 # Käyttöjärjestelmä
-.Thumbs.db
+Thumbs.db
 
 # Editorit
 
